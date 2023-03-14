@@ -132,7 +132,7 @@ body:before {
 
 header {
     height: 48px;
-    background: #211710 url(/web/20120731140559im_/http://www.minecraft.net/images/bg_top.png);
+    background: #211710 url(dirt.png);
 }
 
 header a, header a:active, header a:visited {
@@ -159,7 +159,7 @@ header a, header a:active, header a:visited {
     float: left;
     width:260px;
     height:48px;
-    background: transparent url(/web/20120731140559im_/http://www.minecraft.net/images/logo.png) no-repeat 0 1px;
+    background: transparent url(logo.png) no-repeat 0 1px;
     display:block;
     overflow:hidden;
     text-indent:-10000px;
